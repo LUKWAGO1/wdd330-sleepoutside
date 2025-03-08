@@ -67,6 +67,28 @@
     "FinalPrice": 179.99
   },
   {
+    "Id": "989CD",
+    "NameWithoutBrand": "Minipack Mixe Tent - 2-Person, 3-Season",
+    "Name": "High Peak Minipack Mixe Tent - 2-Person, 3-Season",
+    "Image": "../images/tents/newtent.jpg",
+
+    "SizesAvailable": {},
+    "Colors": [
+      {
+        "ColorCode": "01",
+        "ColorName": "Bleu / Yellow"
+      }
+    ],
+    "DescriptionHtmlSimple": "<strong>Closeout</strong>. Enjoy a fun night under stars with your favorite people in The North Face&#39;s Talus three-person tent, featuring durable construction with a roomy interior, an advanced DAC <a class=\"glossaryTermLink\" href=\"/featherlite~g~1835\" title=\"Featherlite: - Unusually strong aluminum poles used for tents. DAC Featherlite tent poles use a system of three small metal sleeves to give the poles added strength and flex, while keeping them as lightweight as possible. Up to 15% lighter than aluminum poles of comparable strength, Featherlite poles are the strongest joint system built for tents.\">Featherlite</a> NSL pole system and an easy to pitch design.",
+    "SuggestedRetailPrice": 270.0,
+    "Brand": {
+      "Id": "1440",
+      "Name": "The North Face"
+    },
+    "ListPrice": 49.99,
+    "FinalPrice": 49.99
+  },
+  {
     "Id": "985PR",
     "NameWithoutBrand": "Alpine Guide Tent - 3-Person, 4-Season",
     "Name": "The North Face Alpine Guide Tent - 3-Person, 4-Season",
